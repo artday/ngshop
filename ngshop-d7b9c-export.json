@@ -1,0 +1,110 @@
+{
+  "categories" : {
+    "bread" : {
+      "name" : "Bread"
+    },
+    "dairy" : {
+      "name" : "Dairy"
+    },
+    "fruits" : {
+      "name" : "Fruits"
+    },
+    "seasonings" : {
+      "name" : "Seasonings & Spices"
+    },
+    "vegetables" : {
+      "name" : "Vegetables"
+    }
+  },
+  "products" : {
+    "-LEVIU7zPK7T_dlWGqmC" : {
+      "category" : "Bread",
+      "imageUrl" : "https://cdn.bolgegundem.com/d/news/214471.jpg",
+      "price" : 8,
+      "title" : "Freshly Baked Bread"
+    },
+    "-LEVK_aV9c7vNuhkPYCn" : {
+      "category" : "Bread",
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bread_and_grains.jpg",
+      "price" : 2,
+      "title" : "Bread and Grains"
+    },
+    "-LEWBmN3eisWj1VCygZI" : {
+      "category" : "Bread",
+      "imageUrl" : "https://previews.123rf.com/images/sunshine79/sunshine791109/sunshine79110900013/10588274-several-cereals-and-tasty-bread.jpg",
+      "price" : 2,
+      "title" : "Cereals And Tasty Bread"
+    },
+    "-LEWSwYbI1zVIk0R9nRr" : {
+      "category" : "Bread",
+      "imageUrl" : "https://images.pexels.com/photos/209194/pexels-photo-209194.jpeg?cs=srgb&dl=baked-goods-bread-food-209194.jpg&fm=jpg",
+      "price" : 1.5,
+      "title" : "Sprinkled Bread"
+    },
+    "-LEWTme9Ino8wLiyTvOx" : {
+      "category" : "Bread",
+      "imageUrl" : "https://c1.staticflickr.com/5/4189/33699614044_926b699a86_b.jpg",
+      "price" : 2,
+      "title" : "Cinnamon swirl bread"
+    },
+    "-LEWWPFiaeaKoKgwNAmy" : {
+      "category" : "Bread",
+      "imageUrl" : "https://images.pexels.com/photos/162996/pretzels-fritters-baked-goods-food-162996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "price" : 1,
+      "title" : "Brown Bread"
+    },
+    "-LEWXenbZzjKy_ORRpdE" : {
+      "category" : "Dairy",
+      "imageUrl" : "https://images.lacucinaitaliana.it/wp-content/uploads/2015/06/formaggi-italiani-francia.jpg",
+      "price" : 4.5,
+      "title" : "Cheese Dairy Product"
+    },
+    "-LEWXhspajMqKkw6ZE5a" : {
+      "category" : "Dairy",
+      "imageUrl" : "https://www.falstaff.at/fileadmin/_processed_/csm_Weissschimmelka__se-Shutter-1920_ae3e5a5092.jpg",
+      "price" : 7,
+      "title" : "Cheese Healthy Slice"
+    },
+    "-LEWYX4x1nuBQoZ40noG" : {
+      "category" : "Fruits",
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/0/09/Egg_fruit_cross_section_DS.jpg",
+      "price" : 2,
+      "title" : "Pouteria campechiana"
+    },
+    "-LEWYYTQj28mCaeFdmPd" : {
+      "category" : "Bread",
+      "imageUrl" : "https://images.pexels.com/photos/162948/wild-fruits-fruits-wild-fruit-162948.jpeg?cs=srgb&dl=berries-blueberries-fruit-162948.jpg&fm=jpg",
+      "price" : 5,
+      "title" : "Berries, blueberries"
+    },
+    "-LEWY_YQhRi79C4XwJzo" : {
+      "category" : "Bread",
+      "imageUrl" : "https://www.seriouseats.com/images/2017/07/20170629-roasted-cherry-ice-cream-1.jpg",
+      "price" : 3,
+      "title" : "Cherry"
+    },
+    "-LEWbmUm4qLyeHt2jC0O" : {
+      "category" : "Seasonings & Spices",
+      "imageUrl" : "http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2016/07/05/curcuma-en-polvo.jpg?itok=XXLqM-gl",
+      "price" : 1.5,
+      "title" : "Propiedades de la cúrcuma"
+    },
+    "-LEWcBTcQy0pJzBteooI" : {
+      "category" : "Vegetables",
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kale-Bundle.jpg",
+      "price" : 1,
+      "title" : "Kale"
+    }
+  },
+  "users" : {
+    "1jeEdV3ej6gEh78PnZ6tRUkejvE3" : {
+      "email" : "kingvasil@gmail.com",
+      "isAdmin" : true,
+      "name" : "Василий Король"
+    },
+    "F7ahm5Tfracbm6MHLhIvaqj5inq1" : {
+      "email" : "cryptbtccoins@gmail.com",
+      "name" : "Vasyl Korol"
+    }
+  }
+}

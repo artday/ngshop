@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "dist/ngshop",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+
+  }
+}
