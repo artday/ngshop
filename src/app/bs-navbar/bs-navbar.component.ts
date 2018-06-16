@@ -8,6 +8,7 @@ import {AppUser} from "../models/app-user";
   styleUrls: ['./bs-navbar.component.css']
 })
 export class BsNavbarComponent implements  OnInit {
+  isCollapsed = true;
   appUser: AppUser;
 
   constructor(private auth: AuthService) { }
